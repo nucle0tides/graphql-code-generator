@@ -1,0 +1,1 @@
+describe('typescript-swr', () => {});
